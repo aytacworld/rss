@@ -1,0 +1,12 @@
+{
+  "name": "@aytacworld/rss",
+  "version": "1.0.0",
+  "description": "easy way to create rss feeds",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Adem Aytac <adem@aytacworld.com>",
+  "repository": "https://github.com/aytacworld/rss",
+  "license": "MIT"
+}
