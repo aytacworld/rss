@@ -1,3 +1,5 @@
+# this project moved to https://git.aytacworld.com/aytacworld/rss/
+
 # @aytacworld/rss
 
 This package is to provide an easy way to create a valid rss/atom feed page.
